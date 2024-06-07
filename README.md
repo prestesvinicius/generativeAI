@@ -12,7 +12,7 @@ A imersão proporcionou uma experiência rica e prática, focando em:
 - Integração de chatbots com diferentes plataformas
 - Melhores práticas de desenvolvimento e implementação de chatbots
 
-A participação na 2ª Imersão Alura & Google foi uma excelente oportunidade de aprender sobre a criação de chatbots com tecnologias de ponta. Agradeço à Alura e ao Google pela oportunidade e espero que este repositório seja útil para outros desenvolvedores interessados no tema.
+Foi uma excelente oportunidade de aprender sobre a criação de chatbots com tecnologias de ponta. Agradeço à Alura e ao Google pela oportunidade e espero que este repositório seja útil para outros desenvolvedores interessados no tema.
 
 ## Contato
 
